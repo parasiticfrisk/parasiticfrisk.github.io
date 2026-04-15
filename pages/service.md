@@ -37,6 +37,8 @@ title: Professional Service
 | Period | Membership |
 | --- | --- |
 | 2026–Present | Student Member, Society for Ecological Restoration |
+| 2025–Present | Student Member, American Society for Photogrammetry and Remote Sensing |
+| 2025–Present | Member, Gamma Sigma Theta |
 | 2025–Present | Student Member, American Geophysical Union |
 | 2025–Present | Student Member, Ecological Society of America |
 | 2024–Present | Student Member, Soil and Water Conservation Society |
