@@ -105,12 +105,12 @@ ENV/
 # IDE settings
 .vscode/
 
-# MyST / Jupyter Book build outputs
+# MyST / Jupyter Pages build outputs
 _build/
-book-clean/
+pages-clean/
 
-# Translation image directories (images are copied from book/images/ at build time)
-book-*/images/
+# Translation image directories (images are copied from pages/images/ at build time)
+pages-*/images/
 
 # Large data files
 *.tif
